@@ -1,0 +1,6 @@
+{
+  "name": "LokVyapar - Smart Commercial Activity Monitoring Platform",
+  "description": "Maharashtra Smart City platform estimating commercial footfall & urban movement patterns via authorized digital UPI transaction signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
